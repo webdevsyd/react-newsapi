@@ -12,7 +12,7 @@ class DefaultLayout extends Component {
 	constructor(props){
 		super(props);
 		this.state = {
-			title: "All News Sourcess"
+			title: "All News Sources"
 		};
 	}
 	onClickNewsSources(e,index){
